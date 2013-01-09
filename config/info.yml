@@ -1,0 +1,15 @@
+# Plugin information
+name: "Sf Yaml"
+description: "Manage Yaml config files."
+version: "0.0.1"
+framework_version: "2.0"
+dependencies: ""
+notes: "adaptado para utilizar en imagina, bajo el consentimiento de Fabien Potencier."
+# Author information
+author: "Fabien Potencier"
+email: "fabien.potencier@symfony-project.com"
+site: "sensiolabs.com | symfony.com | fabien.potencier.org"
+# Legal information
+company: "Sensio"
+copyright: ""
+license: ""
